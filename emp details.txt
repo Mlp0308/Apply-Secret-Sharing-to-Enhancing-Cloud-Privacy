@@ -1,0 +1,33 @@
+Company : xyz
+Employee1 
+username:surekha_nandigam
+password:Suru@300
+Bank account:abcdef
+account password:ABCDEF
+
+Employee2
+username : pranathi_avuthu
+password : avuthu@2
+Bank account:ghijk
+account password:GHIJK
+
+Employee3
+username:prakash_gbhanu
+password:Bhanu@26
+Bank account:lmnop
+account password:LMNOP
+
+Employee4
+username:preethi_bijjal
+password:Bijjal@2
+Bank account:qrst
+account password:QRST
+
+Employee5
+username:asritha_g07
+password:Asri@460
+Bank account:uvwx
+account password:UVWX
+
+
+
